@@ -1,6 +1,5 @@
 /**
  * @name Little_Nightmares_II
- * @author ClearVision Team
  * @version 6
  * @description Highly customizable and beautiful theme for BetterDiscord
  * @source https://github.com/ClearVision/ClearVision-v6
@@ -56,7 +55,7 @@
   --home-icon: url('https://i.imgur.com/DAkrjCB.png');
   --home-position: center;
   --home-size: 40px;
-  --channel-unread: #DA00FF;
+  --channel-unread: rgb(255, 0, 0);
   --channel-color: rgb(218,0,255,1);
   --channel-color: rgb(218,0,255,1);
   --online-color: #43b581;
